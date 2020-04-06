@@ -33,6 +33,8 @@ Busca tus herramientas físicas, psicológicas, emocionales y espirituales, todo
 
 La vida avanzará con nosotros o si nosotros, mientras estemos aquí hagamos que esta experiencia sea valiosa, porque ahora, mañana o más tarde, sea por este virus o por cualquier otra razón, lo único seguro es que moriremos, hagamos que todo lo que nos pase, nos ayude a ser mejores seres humanos.
 
+[Descarga pdf: Aislamiento ... Una Oportunidad ](https://drive.google.com/open?id=1q4WlofXWb_0ZQIFBigGJ6x7MhG03l0_Z)
+
 Ingrith Vélez
 
 Especialista en Psicología Ocupacional
