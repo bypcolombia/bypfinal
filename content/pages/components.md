@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: riesgo-psicosocial
 title: Riesgo Psicosocial
 featuredImage: 'https://ucarecdn.com/0599753e-5563-4fc1-8243-caddbdfc24a7/'
-subtitle: '### **_Prevención, Diagnóstico e Intervención_**'
+subtitle: '### ***Prevención, Diagnóstico, SVE e Intervención***'
 section1: >-
   ## Qué son los Riesgos Psicosociales (RPS)
 
@@ -35,16 +35,14 @@ section1: >-
   generando valor agregado a los miembros de la organización, al conocer los
   riesgos a los que están expuestos y sus causas, y luego con la gestión
   efectiva, generar Bienestar y Calidad de Vida, al tiempo que aumentamos la
-  productividad.
-
-  ​
+  productividad. ​
 
   Por otra parte, para articular la gestión de los riesgos psicosociales, con el
   Sistema de Gestión Salud y Seguridad en el Trabajo (SG - SST) y dar
   cumplimiento a este requerimiento. 
 
 
-  ![riesgo psicosocial, burn out
+  ![Riesgo Psicosocial, burn out
   syndrome](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/-/crop/1394x754/6,164/-/preview/
   "Riesgo Psicosocial")
 section2: >-
@@ -155,4 +153,3 @@ meta:
   description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
   title: Riesgo Psicosocial
 ---
-
