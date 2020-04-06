@@ -125,9 +125,9 @@ meta:
 ---
 ## Quiénes somos
 
-Bienestar y Productividad es una organización especializada en el Riesgo Psicosocial (Diagnóstico, SVE e intervención), Talento Humano, Capacitación, Asesoría y Diseño del Sistema de Salud y Seguridad en el Trabajo SG-SST, Baile Terapia y Teletrabajo.
+Bienestar y Productividad es una organización especializada en la gestión del Riesgo Psicosocial (Prevención, Diagnóstico, Sistema de Vigilancia Epidemiológica en Riesgo Psicosocial (SVE en RPS), e intervención); Talento Humano, Capacitación en competencias blandas; Asesoría y Diseño del Sistema de Gestión para la Salud y la Seguridad en el Trabajo (SG-SST); Baile Terapia y desde nuestros inicios hemos insistido en los beneficios del Trabajo en Casa o más conocido como Teletrabajo (para cargos que aplique).
 
-Somos una compañía innovadora, que está a la vanguardia de las exigencias de un mundo cada vez más globalizado;contamos con el sello de los Ministerios de Tecnologías de la Información y del Trabajo, como Entidad firmante del Pacto por el Teletrabajo, lo cual sostiene nuestro compromiso con la Innovación, la Productividad y la Calidad de Vida.
+Somos una compañía innovadora, que está a la vanguardia de las exigencias de un mundo globalizado; contamos con el sello de los Ministerios de Tecnologías de la Información y del Trabajo, como Entidad firmante del Pacto por el Teletrabajo, lo cual sostiene nuestro compromiso con la Innovación, la Productividad y la Calidad de Vida.
 
 Poseemos una alta Orientación de Servicio al Cliente externo e interno; contamos con experiencia a nivel nacional en reconocidas compañías de diversos sectores económicos.
 
@@ -141,6 +141,6 @@ Contamos con licencia en Seguridad y Salud en el Trabajo como organización y el
 
 ## Historia
 
-Bienestar y Productividad se creó en el año 2014, por la doctora [Ingrith Vélez](https://www.linkedin.com/in/ingrithv%C3%A9lezramos/), quien puso su experiencia en Gestión del Riesgo Psicosocial, Gestión Humana y Salud y Seguridad en el Trabajo, al servicio de la organización; con el objetivo de mejorar el Bienestar, la Calidad de Vida y la Productividad de los trabajadores y dar solución a la necesidad de diagnosticar, gestionar e intervenir el Riesgo Psicosocial, lo cual es un requisito del Ministerio del Trabajo de Colombia, expuesto en la Resolución 2646 de 2008. En sus inicios, contó con una alianza estratégica con la empresa Europea **[People-Vox](https://www.people-vox.com/presentation-de-people-vox/)**, expertos en encuestas y en la Gestión de la Satisfacción.
+Bienestar y Productividad se creó en el año 2014, por la doctora [Ingrith Vélez](https://www.linkedin.com/in/ingrithv%C3%A9lezramos/), quien puso su experiencia en la Gestión del Riesgo Psicosocial, Gestión Humana, Salud y Seguridad en el Trabajo y Danza, al servicio de la organización; con el objetivo de mejorar el Bienestar, la Calidad de Vida y la Productividad de los trabajadores y dar solución a la necesidad de diagnosticar, gestionar e intervenir el Riesgo Psicosocial, lo cual es un requisito del Ministerio del Trabajo de Colombia, expuesto en la Resolución 2646 de 2008 y 2404 de 2019. En sus inicios, contó con una alianza estratégica con la empresa Europea **[People-Vox](https://www.people-vox.com/presentation-de-people-vox/)**, expertos en encuestas y en la Gestión de la Satisfacción.
 
 ![Nueva Pagina Bienestar y Productividad](https://ucarecdn.com/2635525a-2900-45a7-8f3e-0fd7e4f4b372/)
