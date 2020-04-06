@@ -9,6 +9,9 @@ excerpt: >-
   fortalecernos y ver lo positivo de estos tiempos...
 categories:
   - category: Blog
+meta:
+  title: OPORTUNIDADES POR EL CORONAVIRUS
+  description: Inventario de oportunidades por el coronavirus
 ---
 Posiblemente con la frase del banner que anuncia nuestro cambio de logo y unificación de la web, algunos pensarán: El mundo evoluciona, Nosotros también! Como pueden habar de evolución en momentos como estos en que mueren personas por el COVID-19, en que estamos en cuarentena, en que existen despidos masivos, en que la economía se debilita, en que una cosa y la otra; mi idea hoy no es citar cada cosa por resolver de esta experiencia; todo lo contrario, mi objetivo es que podamos ver todas las oportunidades que nos ha traído esta situación y enviar fortaleza, paz y esperanza a sus corazones en medio de este momento de cambio.
 
