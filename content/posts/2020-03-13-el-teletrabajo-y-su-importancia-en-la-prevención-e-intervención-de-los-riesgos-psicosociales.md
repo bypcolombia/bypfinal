@@ -4,7 +4,7 @@ title: >-
   EL TELETRABAJO Y SU IMPORTANCIA EN LA PREVENCIÓN E INTERVENCIÓN DE LOS RIESGOS
   PSICOSOCIALES
 status: Published
-date: 2016-09-26
+date: '2016-09-26'
 featuredImage: 'https://ucarecdn.com/4804483b-6a4b-4b8d-95fb-a6da132f47fd/'
 excerpt: >
   En este artículo se expone la importancia del Teletrabajo, en la prevención e
@@ -14,7 +14,10 @@ excerpt: >
 categories:
   - category: Blog
 meta:
-  description: Hola
+  description: >-
+    TELETRABAJO, TRABAJO EN CASA, COMO HERRAMIENTA PARA PREVENIR RIESGOS Y
+    MEJORAR EL BALANCE VIDA TRABAJO - MEDIO AMBIENTE - MOVILIDAD 
+  title: IMPORTANCIA DE TELETRABAJO EN LA GESTIÓN DE LOS RIESGOS PSICOSOCIALES
 ---
 
 En este artículo se expone la importancia del Teletrabajo, en la prevención e intervención de los Riesgos Psicosociales (RPS), considerando por una parte dimensiones tales como el liderazgo, las relaciones sociales en el trabajo, el control y autonomía sobre el trabajo, la claridad en el rol, las demandas ambientales y de esfuerzo físico, la influencia del ambiente laboral sobre el extra laboral y las demandas de la jornada de trabajo; a nivel extra laboral, el tiempo fuera del trabajo y el desplazamiento; dimensiones que impactan directamente en el nivel de estrés de los colaboradores; y por otra, los beneficios expuestos en los resultados del último estudio de penetración del Teletrabajo en Colombia, los cuales fueron sustentados por el Ministro de las Tecnologías de la Información, David Luna, en la Tercera Feria Internacional del Teletrabajo; en términos de variables como el aumento en el uso de las tecnologías de la información, disminución en los tiempos de desplazamientos, reducción de la huella de carbono que impacta directa y positivamente el medio ambiente, mayor control y autonomía sobre el trabajo, mejoramiento de la calidad de vida y aumento en la productividad, entre otros.
