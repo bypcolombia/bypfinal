@@ -2,11 +2,14 @@
 template: SinglePost
 title: 'DIAGNÓSTICO DE RIESGO PSICOSOCIAL: ASPECTOS DE MEJORA'
 status: Published
-date: 2018-08-27
+date: '2017-08-18'
 featuredImage: 'https://ucarecdn.com/bf16eb5b-08ab-4447-9c6c-19af95d4bbc0/'
 excerpt: 'Autora: Ingrith Velez Ramos'
 categories:
   - category: Blog
+meta:
+  title: 'RIESGO PSICOSOCIAL: ASPECTOS DE MEJORA'
+  description: 'Riesgo psicosocial: aspectos de mejora para el diagnóstico en Colombia'
 ---
 
 A medida que pasa el 2017, y ya entrados en los últimos meses del año, se empieza a generar estrés en los departamentos de recursos humanos que aún no han dado cumplimiento a la resolución 2646 en el presente año; como organización pionera en el diagnóstico de riesgo psicosocial, en Bienestar y Productividad, hemos sido contactados por 672 empresas de diversos tamaños y sectores económicos y presupuestado el diagnóstico de riesgo psicosocial de 345 compañías colombianas, para un promedio de 24,88 requerimientos por mes, en 27 meses de presencia ininterrumpida en Internet; las compañías que han solicitado nuestros servicios de diagnóstico, nos han permitido entender las necesidades en materia de diagnósticos de riesgos psicosociales, sumado a la experiencia en la realización de los mismos, y es por esto que hoy queremos exponer a la comunidad empresarial, a nuestros colegas y a la comunidad académica, cuáles son esos obstáculos que hacen que muchas organizaciones duden de cual es la mejor forma de realizar el diagnóstico y hacen que se retrase el proceso, obstáculos que van más allá de la voluntad de los empresarios, de departamentos de recursos humanos y de las empresas que prestamos dicho servicio; obstáculos evidenciados a través de mi experiencia como directora de una de las compañías pioneras en el diagnóstico e intervención del riesgo psicosocial en Colombia, que el día de hoy me permiten exponerlas abiertamente, buscando que el Ministerio de Trabajo tome pronto cartas en el asunto, para revisar la resolución 2646 y permitir que se masifique el diagnóstico e intervención del riesgo psicosocial en Colombia, como es el deseo de la mencionada resolución y no poner más obstáculos en la ejecución de esta actividad que a la larga a quienes beneficia, es a los empleados colombianos, generando un mejor país.
