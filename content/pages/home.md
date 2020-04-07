@@ -117,11 +117,8 @@ gallery:
 meta:
   description: >-
     Expertos en la gestión del Riesgo Psicosocial: Prevención, Diagnóstico,
-    Intervención; Capacitación, Salud y Seguridad en el Trabajo, Baile Terapia;
-    Promovemos el Tele Trabajo (Trabajo en casa, Home Office.
-  title: >-
-    Riesgo Psicosocial, Batería de Riesgo psicosocial Colombia, Sistema de
-    Seguridad y Salud en el trabajo, SGSST, Capacitación, Baile Terapia
+    Intervención; Capacitación, Salud y Seguridad en el Trabajo.
+  title: Bienestar y Productividad S.A.S. Expertos en Riesgo Psicosocial y SG SST
 ---
 ## Quiénes somos
 
