@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'MEDICIÓN DE RIESGO PSICOSOCIAL EN COLOMBIA: EXPERIENCIAS Y REALIDADES'
 status: Published
-date: 2018-03-21T05:00:00.000Z
+date: '2016-09-03'
 featuredImage: 'https://ucarecdn.com/01c617a2-a364-466b-851f-abed3e1f9ff7/'
 excerpt: >2-
    En este artículo se exponen 8 realidades de la gestión de los riesgos psicosociales (RPS) desde la perspectiva de la autora, dada como resultado de la experiencia de campo en RPS realizada en empresas colombianas de diversos sectores económicos y tamaños
@@ -12,8 +12,8 @@ excerpt: >2-
 categories:
   - category: Blog
 meta:
-  description: test meta description
-  title: test meta title
+  description: 'RIESGO PSICOSOCIAL, EXPERIENCIAS Y REALIDADES EN EL DIAGNÓSTICO'
+  title: 'RIESGO PSICOSOCIAL, REALIDADES, ASPECTOS DE MEJORA'
 ---
 Este artículo fue publicado originalmente en julio de 2016 en http://www.people-vox.es
 
