@@ -119,7 +119,7 @@ meta:
     Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia,Factores
     de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo Psicosocial
     definición
-  title: Bienestar y Productividad S.A.S. Expertos en Riesgo Psicosocial y SG SST
+  title: Bienestar y Productividad S.A.S. Expertos en Riesgo Psicosocial
 ---
 ## Quiénes somos?
 
@@ -127,7 +127,7 @@ Organización especializada en la gestión del Riesgo Psicosocial: Prevención, 
 
 ## Por qué elegirnos?
 
-Creemos en la innovación y la tecnología; tenemos claridad de encontrarnos en un mundo globalizado; la organización cuenta con licencia SST y también el equipo; poseemos una alta Orientación de Servicio al Cliente; contamos con experiencia a nivel nacional en reconocidas compañías de diversos sectores económicos y el sello que nos respalda como entidad firmante del Pacto por el Tele Trabajo.
+Creemos en la innovación, la tecnología y la globalización; la organización cuenta con licencia SST, también el equipo; poseemos una alta Orientación de Servicio al Cliente; Experiencia y Trayectoria
 
 ## Historia
 
