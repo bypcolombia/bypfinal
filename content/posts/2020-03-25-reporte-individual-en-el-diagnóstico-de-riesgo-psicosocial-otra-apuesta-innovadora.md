@@ -4,7 +4,7 @@ title: >-
   REPORTE INDIVIDUAL EN EL DIAGNÓSTICO DE RIESGO PSICOSOCIAL: OTRA APUESTA
   INNOVADORA
 status: Published
-date: 2010-01-28
+date: '2019-01-28'
 featuredImage: 'https://ucarecdn.com/c9f63e6e-e186-4ea8-95b8-eba6c78e4de9/'
 excerpt: >-
   Reporte individual de la Batería de Riesgo Psicosocial. Una perspectiva
