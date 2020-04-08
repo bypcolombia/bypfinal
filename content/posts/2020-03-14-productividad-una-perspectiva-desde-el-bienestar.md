@@ -2,11 +2,21 @@
 template: SinglePost
 title: 'PRODUCTIVIDAD: UNA PERSPECTIVA DESDE EL BIENESTAR'
 status: Published
-date: 2017-03-11
+date: '2017-11-19'
 featuredImage: 'https://ucarecdn.com/58ff968b-6d7e-46d1-95f5-999fe43e976f/'
-excerpt: 'Autora: Ingrith Véles Ramos'
+excerpt: >-
+  Con  motivo de los 3 años de Bienestar y Productividad, se expone una
+  perspectiva de la Productividad, basada en el Bienestar, la consciencia
+  ambiental y la espiritualidad.
 categories:
   - category: Blog
+meta:
+  title: 'PRODUCTIVIDAD: UNA PERSPECTIVA DESDE EL BIENESTAR'
+  description: >-
+    Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia, 
+    Factores de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo
+    Psicosocial definición, medio ambiente, reciclaje, consciencia ambiental,
+    movilidad
 ---
 
 El 19 de noviembre de 2017, se cumplen 3 años de la constitución legal de Bienestar y Productividad y sea esta fecha importante, ante todo para agradecer, pero también, para replantearnos sobre que es la Productividad, desde la experiencia adquirida en este tiempo.
