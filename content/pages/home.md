@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Bienestar y Productividad
-featuredImage: 'https://ucarecdn.com/4e78efe8-99bb-49a0-af2f-b6420af5363a/'
+featuredImage: 'https://ucarecdn.com/0d54af70-b774-4dee-abaf-7f6cd4a293f3/'
 subtitle: '### *Generando Bienestar*'
 gallery:
   - alt: Calypso del Caribe
@@ -63,7 +63,7 @@ gallery:
   - alt: Onteal
     image: 'https://ucarecdn.com/df4008f4-36ee-4e31-b0ed-73d9a491c334/'
   - alt: VINYL BOX MUSIC CENTER
-    image: 'https://ucarecdn.com/230575a6-6017-444f-bb13-f98e61d7b718/'
+    image: 'https://ucarecdn.com/7d6946fa-e946-4827-9ed9-09ecfd1bd9c1/'
   - alt: DNA MUSIC
     image: 'https://ucarecdn.com/29b33fee-397a-4a9e-b7b1-328a1126f2b3/'
     title: ''
@@ -116,28 +116,21 @@ gallery:
     title: En Misión
 meta:
   description: >-
-    Expertos en la gestión del Riesgo Psicosocial: Prevención, Diagnóstico,
-    Intervención; Capacitación, Salud y Seguridad en el Trabajo.
+    Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia,Factores
+    de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo Psicosocial
+    definición
   title: Bienestar y Productividad S.A.S. Expertos en Riesgo Psicosocial y SG SST
 ---
-## Quiénes somos
+## Quiénes somos?
 
-Bienestar y Productividad es una organización especializada en la gestión del Riesgo Psicosocial (Prevención, Diagnóstico, Sistema de Vigilancia Epidemiológica en Riesgo Psicosocial (SVE en RPS), e intervención); Talento Humano, Capacitación en competencias blandas; Asesoría y Diseño del Sistema de Gestión para la Salud y la Seguridad en el Trabajo (SG-SST); Baile Terapia y desde nuestros inicios hemos insistido en los beneficios del Trabajo en Casa o más conocido como Teletrabajo (para cargos que aplique).
+Organización especializada en la gestión del Riesgo Psicosocial: Prevención, Diagnóstico, Sistema de Vigilancia Epidemiológica en Riesgo Psicosocial (SVE en RPS), e Intervención; Talento Humano, Capacitación, Asesoría para el Diseño e Implementación del Sistema de Gestión para la Salud y Seguridad en el Trabajo (SG - SST), Baile Terapia y estamos comprometidos desde nuestros inicios en promover el Trabajo en Casa. 
 
-Somos una compañía innovadora, que está a la vanguardia de las exigencias de un mundo globalizado; contamos con el sello de los Ministerios de Tecnologías de la Información y del Trabajo, como Entidad firmante del Pacto por el Teletrabajo, lo cual sostiene nuestro compromiso con la Innovación, la Productividad y la Calidad de Vida.
+## Por qué elegirnos?
 
-Poseemos una alta Orientación de Servicio al Cliente externo e interno; contamos con experiencia a nivel nacional en reconocidas compañías de diversos sectores económicos.
-
-## Por qué elegirnos
-
-Generamos y ejecutamos proyectos personalizados dependiendo de las características y necesidades de su organización, así como soluciones practicas y efectivas para los Directivos y Departamentos de Gestión Humana a quienes acompañamos y asesoramos.
-
-Estamos respaldados por una red de profesionales especializados y experimentados en sus áreas, en las principales ciudades del país, que además, cuentan con licencias vigentes en salud y seguridad en el trabajo.
-
-Contamos con licencia en Seguridad y Salud en el Trabajo como organización y el sello que nos acredita como entidad firmante del Pacto por el Teletrabajo.
+Creemos en la innovación y la tecnología; tenemos claridad de encontrarnos en un mundo globalizado; la organización cuenta con licencia SST y también el equipo; poseemos una alta Orientación de Servicio al Cliente; contamos con experiencia a nivel nacional en reconocidas compañías de diversos sectores económicos y el sello que nos respalda como entidad firmante del Pacto por el Tele Trabajo.
 
 ## Historia
 
-Bienestar y Productividad se creó en el año 2014, por la doctora [Ingrith Vélez](https://www.linkedin.com/in/ingrithv%C3%A9lezramos/), quien puso su experiencia en la Gestión del Riesgo Psicosocial, Gestión Humana, Salud y Seguridad en el Trabajo y Danza, al servicio de la organización; con el objetivo de mejorar el Bienestar, la Calidad de Vida y la Productividad de los trabajadores y dar solución a la necesidad de diagnosticar, gestionar e intervenir el Riesgo Psicosocial, lo cual es un requisito del Ministerio del Trabajo de Colombia, expuesto en la Resolución 2646 de 2008 y 2404 de 2019. En sus inicios, contó con una alianza estratégica con la empresa Europea **[People-Vox](https://www.people-vox.com/presentation-de-people-vox/)**, expertos en encuestas y en la Gestión de la Satisfacción.
+Nace en el 2014, por [Ingrith Vélez](https://www.linkedin.com/in/ingrithv%C3%A9lezramos/); con el objetivo de mejorar el Bienestar, la Calidad de Vida y la Productividad de los trabajadores y dar solución a la necesidad de diagnosticar, gestionar e intervenir el Riesgo Psicosocial. En sus inicios, contó con una alianza estratégica con la empresa Europea **[People-Vox](https://www.people-vox.com/presentation-de-people-vox/)**, expertos en encuestas y en la Gestión de la Satisfacción.
 
-![Nueva Pagina Bienestar y Productividad](https://ucarecdn.com/2635525a-2900-45a7-8f3e-0fd7e4f4b372/)
+![BIENESTAR Y PRODUCTIVIDAD](https://ucarecdn.com/2635525a-2900-45a7-8f3e-0fd7e4f4b372/)

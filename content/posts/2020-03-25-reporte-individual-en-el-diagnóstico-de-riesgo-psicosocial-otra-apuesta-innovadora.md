@@ -11,6 +11,15 @@ excerpt: >-
   innovadora
 categories:
   - category: Blog
+meta:
+  title: >-
+    Reporte individual de la Batería de Riesgo Psicosocial. Una perspectiva
+    innovadora
+  description: >-
+    Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia, 
+    Factores de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo
+    Psicosocial definición, Informe de resultado de riesgo psicosocial
+    individual
 ---
 Hacen ya 12 años de estar ejerciendo en el marco de la Psicología Organizacional y Ocupacional, buscando generar Bienestar, Productividad y Calidad de vida en cada empresa a la que ingreso; casi 8 años inmersa en la gestión de la Resolución 2646 del año 2008, la cual tendrá 11 años, el 17 de Julio de este 2019, de haber sido expuesta; y entre ir de la mano de ella, de lo que dice el manual y de lo que recoge mi experiencia, a estas alturas, quienes siguen el trabajo de Bienestar y Productividad, sabrán que tenemos una posición constructiva conforme a las necesidades de las empresas y trabajadores colombianos y que nos hemos atrevido a proponer mejoras y dar soluciones conforme a la experiencia, haciéndolo para servir y agradecer a todas las empresas y personas que han confiado en nuestra gestión.
 
