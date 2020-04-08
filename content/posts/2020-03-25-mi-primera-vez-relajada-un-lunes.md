@@ -1,12 +1,22 @@
 ---
 template: SinglePost
-title: 'MI PRIMERA VEZ RELAJADA UN LUNES!'
+title: MI PRIMERA VEZ RELAJADA UN LUNES!
 status: Published
-date: 2018-07-05
+date: '2018-05-07'
 featuredImage: 'https://ucarecdn.com/41b95108-09d3-4f53-ad47-790c17acfd34/'
-excerpt: 'Manejo del estrés y del tiempo libre. '
+excerpt: >-
+  Trabajo en casa, Home Office, Tele Trabajo, Manejo del estrés, Balance vida
+  trabajo, expuesto desde la perspectiva más personal de la autora
 categories:
   - category: Blog
+meta:
+  title: 'MANEJO DEL ESTRÉS, TELE TRABAJO, HOME OFFICE, TELETRABAJO'
+  description: >-
+    Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia, 
+    Factores de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo
+    Psicosocial definición, consciencia ambiental, espiritualidad, familia,
+    desplazamiento, movilidad, medio ambiente, manejo del estrés, balance vida
+    trabajo
 ---
 A las 5:a.m. sonó el despertador y pensé: tengo tantas cosas que hacer, que no sé por dónde empezar! Me levanté y di aviso a mi hija para despertarse, pero siguió durmiendo un rato más, cómo no!! Si hacía frío, además es el primer día de la semana para ir al colegio! Le preparé el baño, encendiendo el calentador, poniéndole una toalla limpia y le insistí en que se levantará, ella solo dijo: antes quiero un abrazo, y se lo di; entonces,  con las pilas del amor, ella se fue a la ducha y yo me quedé leyendo en mi cama.
 
