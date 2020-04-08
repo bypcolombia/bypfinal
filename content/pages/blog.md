@@ -9,5 +9,5 @@ meta:
     Artículos de interés respecto a Riesgo Psicosocial, Capacitación en
     Competencias Blandas, Salud Ocupacional, Trabajo en Casa (Teletrabajo),
     Baile Terapia
-  title: Blog Page
+  title: Blog | Bienestar y Productividad
 ---
