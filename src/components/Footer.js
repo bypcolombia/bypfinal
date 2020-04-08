@@ -6,6 +6,7 @@ import './Footer.css'
 export default () => (
   <div>
   <div className="social-container">
+  <a href="https://api.whatsapp.com/send?phone=573015103946"><img className="img-social" src="/images/whatsapp.svg" alt="Whatsapp Bienestar y Productividad"/> </a>
   <a href="https://www.facebook.com/bienestaryproductividad/"><img className="img-social" src="/images/facebook.svg" alt="Facebook Bienestar y Productividad"/> </a>
   <a href="https://www.youtube.com/playlist?list=PLya0MpsDrUt20BFwFKPLyoiU5cWSszc4k"><img className="img-social" src="/images/youtube.svg" alt="Youtube Bienestar y Productividad"/> </a>
   <a href="https://instagram.com/bienestaryproductividad/"><img className="img-social" src="/images/instagram.svg" alt="Facebook Bienestar y Productividad"/> </a>
