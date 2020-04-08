@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Bienestar y Productividad
-featuredImage: 'https://ucarecdn.com/4e78efe8-99bb-49a0-af2f-b6420af5363a/'
+featuredImage: 'https://ucarecdn.com/0d54af70-b774-4dee-abaf-7f6cd4a293f3/'
 subtitle: '### *Generando Bienestar*'
 gallery:
   - alt: Calypso del Caribe
