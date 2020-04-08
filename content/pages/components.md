@@ -32,9 +32,9 @@ section1: >-
   Productividad. ​
 
 
-  ![Riesgo Psicosocial, burn out
-  syndrome](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/-/crop/1394x754/6,164/-/preview/
-  "Riesgo Psicosocial")
+  ![Riesgo
+  Psicosocial](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/-/crop/1394x754/6,164/-/preview/
+  "Bateria de Riesgo Psicosocial")
 section2: >-
   ## Quién puede hacer el Diagnóstico de Riesgo Psicosocial
 
@@ -198,6 +198,9 @@ gallery:
   - alt: Mundial de Aluminios
     image: 'https://ucarecdn.com/3e237a0c-f7b6-4a1c-aa19-faa4d2e88c97/'
 meta:
-  description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
+  description: >-
+    Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia, 
+    Factores de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo
+    Psicosocial definición 
   title: Riesgo Psicosocial
 ---
