@@ -11,7 +11,9 @@ categories:
   - category: Blog
 meta:
   title: 'Trabajo en casa, balance desde lo profesional y personal '
-  description: 'TRABAJO EN CASA, TELETRABAJO, HOME OFFICE'
+  description: >-
+    TRABAJO EN CASA, TELETRABAJO, HOME OFFICE, TELE TRABAJO, RIESGO PSICOSOCIAL,
+    RIESGO PSICOSOCIAL COLOMBIA, BATERIA DE RIESGO PSICOSOCIAL
 ---
 
 Esta vez procuraré escribir más desde la experiencia personal, sin apartarme de lo profesional, ya que esto hace parte de mi vida; la verdad es que hace mucho que he sentido la necesidad de expresar como ha sido mi experiencia del home office, aunque una parte de mi trabajo, está afuera, en las fábricas, oficinas, obras, cultivos, minas, etc.; y aunque en esta oportunidad no hablaré de datos estadísticos, los cuales son un gran soporte para sustentar científicamente una exposición, hoy hablaré desde la auto observación, la cual puede servir como referente de lo que es el home office, o simplemente los que lo estén viviendo se podrán sentir identificados y quienes no, quizás sientan curiosidad y esto los lleve a explorar este camino.
