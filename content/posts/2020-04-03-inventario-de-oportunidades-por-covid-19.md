@@ -3,7 +3,7 @@ template: SinglePost
 title: INVENTARIO DE OPORTUNIDADES POR COVID-19
 status: Published
 date: '2020-04-02'
-featuredImage: 'https://ucarecdn.com/7a8f5a07-6a1c-4607-80b7-316f04bd61fc/'
+featuredImage: 'https://ucarecdn.com/6cb3bbfd-7fcf-4f90-8538-00a3057335c3/'
 excerpt: >-
   El inventario de oportunidades por COVID-19, es una mirada, que nos invita a
   fortalecernos y ver lo positivo de estos tiempos...
@@ -11,7 +11,7 @@ categories:
   - category: Blog
 meta:
   title: OPORTUNIDADES POR EL CORONAVIRUS
-  description: Inventario de oportunidades por el coronavirus
+  description: Inventario de oportunidades por COVID-19
 ---
 Posiblemente con la frase del banner que anuncia nuestro cambio de logo y unificación de la web, algunos pensarán: El mundo evoluciona, Nosotros también! Como pueden habar de evolución en momentos como estos en que mueren personas por el COVID-19, en que estamos en cuarentena, en que existen despidos masivos, en que la economía se debilita, en que una cosa y la otra; mi idea hoy no es citar cada cosa por resolver de esta experiencia; todo lo contrario, mi objetivo es que podamos ver todas las oportunidades que nos ha traído esta situación y enviar fortaleza, paz y esperanza a sus corazones en medio de este momento de cambio.
 
@@ -36,7 +36,7 @@ Busca tus herramientas físicas, psicológicas, emocionales y espirituales, todo
 
 La vida avanzará con nosotros o si nosotros, mientras estemos aquí hagamos que esta experiencia sea valiosa, porque ahora, mañana o más tarde, sea por este virus o por cualquier otra razón, lo único seguro es que moriremos, hagamos que todo lo que nos pase, nos ayude a ser mejores seres humanos.
 
-[Descarga pdf: Aislamiento ... Una Oportunidad ](https://drive.google.com/open?id=1q4WlofXWb_0ZQIFBigGJ6x7MhG03l0_Z)
+Descarga pdf: [Aislamiento ... Una Oportunidad](https://drive.google.com/open?id=1q4WlofXWb_0ZQIFBigGJ6x7MhG03l0_Z) 
 
 Ingrith Vélez
 
