@@ -12,4 +12,4 @@ Previamente, relajación, reflexión sobre las consecuencias físicas, psicológ
 
 Baile Terapias Temáticas.
 
-![](https://ucarecdn.com/e2f3b0ab-87a6-4ad6-997a-45b38fa9a5b8/)
+![](https://ucarecdn.com/d719c228-f6b4-4bae-ba39-3203750ba7b6/)
