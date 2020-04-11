@@ -3,6 +3,10 @@ template: DefaultPage
 slug: servicios
 title: Otros Servicios
 featuredImage: 'https://ucarecdn.com/68cf2b34-e1f8-4264-90a5-fc38a6d40d16/'
+meta:
+  title: >-
+    Riesgo Psicosocial, Capacitación, Análisis de Puesto de Trabajo, Visitas
+    domiciliarias
 ---
 ## Capacitaciones In y Outdoor
 
