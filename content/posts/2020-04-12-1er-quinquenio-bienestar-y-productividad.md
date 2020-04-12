@@ -3,7 +3,7 @@ template: SinglePost
 title: '1ER QUINQUENIO BIENESTAR Y PRODUCTIVIDAD '
 status: Published
 date: '2019-11-19'
-featuredImage: 'https://ucarecdn.com/e3db806a-bb8b-4ed9-a8ed-3b0cc38f7f41/'
+featuredImage: 'https://ucarecdn.com/feffb778-53af-44b2-84e6-fe0608b5ef0f/'
 excerpt: LLegamos a nuestro primer quinquenio!
 categories:
   - category: Eventos
