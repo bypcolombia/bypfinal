@@ -3,7 +3,7 @@ template: SinglePost
 title: BAILE TERAPIA
 status: Published
 date: '2019-02-28'
-featuredImage: 'https://ucarecdn.com/1120a76e-cc2e-4161-8e66-7dcfa6e8bb0f/'
+featuredImage: 'https://ucarecdn.com/07f53fcf-3ca4-4874-a9c3-4b5a9ac69724/'
 excerpt: 'Baile Terapia, sesión abierta al público'
 categories:
   - category: Eventos
