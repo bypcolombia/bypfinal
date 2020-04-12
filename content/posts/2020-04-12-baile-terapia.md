@@ -3,7 +3,7 @@ template: SinglePost
 title: BAILE TERAPIA
 status: Published
 date: '2018-06-21'
-featuredImage: 'https://ucarecdn.com/7e0ff473-c326-4daa-8ee3-4dd13208bd91/'
+featuredImage: 'https://ucarecdn.com/5ad39ab6-6c2d-4e4b-9933-5feeb02abb9e/'
 excerpt: Sesión de Baile Terapia y Manejo del estrés abierta al público
 categories:
   - category: Eventos
