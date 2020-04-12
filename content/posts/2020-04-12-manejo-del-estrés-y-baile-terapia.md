@@ -3,7 +3,7 @@ template: SinglePost
 title: MANEJO DEL ESTRÉS Y BAILE TERAPIA
 status: Published
 date: '2018-11-29'
-featuredImage: 'https://ucarecdn.com/bf7478e0-376f-41d9-a0ea-66e14d6cb238/'
+featuredImage: 'https://ucarecdn.com/5ac4179a-3fa4-4ca5-a8a1-56049e01693a/'
 excerpt: Manejo del estrés con Baile Terapia
 categories:
   - category: Eventos
