@@ -3,56 +3,46 @@ template: ComponentsPage
 slug: riesgo-psicosocial
 title: Riesgo Psicosocial
 featuredImage: 'https://ucarecdn.com/0599753e-5563-4fc1-8243-caddbdfc24a7/'
-subtitle: '### ***Prevención, Diagnóstico, SVE e Intervención***'
+subtitle: >-
+  ### ***Prevención, Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE en
+  RPS) e Intervenció***
 section1: >-
-  ## Qué son los Riesgos Psicosociales (RPS)
+  ## Riesgos Psicosociales (RPS)
 
 
-  Aquellos que influyen en la Salud y el Desempeño de los trabajadores, a partir
-  de una interrelación dinámica, mediante percepciones y experiencias que
-  comprenden aspectos intra laborales (propios del trabajo y su organización),
-  extra laborales (factores externos) y las condiciones individuales o
-  características personales del trabajador. (Resolución 2646 de 2008)
+  Se originan en la organización del trabajo y generan respuestas de tipo
+  fisiológico, cognitivo y conductual, impactando la percepción de
+  sintomatología asociada al estrés; dichas respuestas, son precursoras de
+  enfermedades, cuya intensidad, frecuencia y duración, dependerá de las
+  circunstancias y de las diferencias individuales.
 
 
-  ​Los RPS's repercuten en el deterioro del Bienestar y la Calidad de Vida de
-  los colaboradores, impactando negativamente la Productividad, trayendo consigo
-  problemas en el funcionamiento de la empresa si no se detectan a tiempo.  Por
-  lo anterior, es imprescindible un correcto diagnóstico, con el fin de
-  prevenirlos y/o mitigarlos; para lo cual estamos a su disposición.​
+  Comprenden los aspectos intra y extra laborales y las condiciones individuales
+  intrínsecas del trabajador, que influyen en la salud y el desempeño de las
+  personas; el diagnóstico e intervención, es responsabilidad de las
+  organizaciones. Resolución 2646 (2008) / 2404 (2019)
 
 
   ## Por qué hacer el Diagnóstico de Riesgo Psicosocial
 
 
-  No solo para dar cumplimiento a las disposiciones legales emitidas por el
-  Ministerio del Trabajo en su Resolución 2646, en donde establece que las
-  organizaciones son responsables de asumir la evaluación del riesgo psicosocial
-  de sus colaboradores, a través de la batería de Riesgo Psicosocial, validada
-  en Colombia por el Ministerio de Trabajo y la Universidad Javeriana
-  (Resolución 2404 de 2019); sino también, por responsabilidad social, ya que
-  además de cumplir la ley, a través de un adecuado diagnóstico, estamos
-  generando valor agregado a los miembros de la organización, al conocer los
-  riesgos a los que están expuestos y sus causas, y luego con la gestión
-  efectiva, generar Bienestar y Calidad de Vida, al tiempo que aumentamos la
-  productividad. ​
-
-  Por otra parte, para articular la gestión de los riesgos psicosociales, con el
-  Sistema de Gestión Salud y Seguridad en el Trabajo (SG - SST) y dar
-  cumplimiento a este requerimiento. 
+  No solo para dar cumplimiento a las disposiciones legales, sino también, por
+  responsabilidad social, ya que con un adecuado diagnóstico e intervención,
+  generamos Bienestar y Calidad de Vida, al tiempo que aumentamos la
+  Productividad. ​
 
 
-  ![Riesgo Psicosocial, burn out
-  syndrome](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/-/crop/1394x754/6,164/-/preview/
-  "Riesgo Psicosocial")
+  ![Riesgo
+  Psicosocial](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/-/crop/1394x754/6,164/-/preview/
+  "Bateria de Riesgo Psicosocial")
 section2: >-
   ## Quién puede hacer el Diagnóstico de Riesgo Psicosocial
 
 
-  ​​Debe ser realizado por PSICÓLOGOS - ESPECIALISTAS, CON LICENCIA VIGENTE EN
-  SALUD Y SEGURIDAD EN EL TRABAJO (SST), preferiblemente RESPALDADOS por
-  ORGANIZACIONES QUE CUENTEN CON LICENCIA VIGENTE EN SST, como es el caso de
-  Bienestar y Productividad. 
+  PSICÓLOGOS - ESPECIALISTAS, CON LICENCIA VIGENTE EN SALUD Y SEGURIDAD EN EL
+  TRABAJO (SST), preferiblemente RESPALDADOS por ORGANIZACIONES QUE CUENTEN CON
+  LICENCIA VIGENTE EN SST, como es el caso de **[BIENESTAR Y
+  PRODUCTIVIDAD](https://bienestaryproductividad.com.co/)**
 
 
   ## Cuáles son los cuestionarios para Diagnosticar el Riesgo Psicosocial
@@ -61,14 +51,14 @@ section2: >-
   En Colombia, según la Resolución 2646 de 2008 y la Resolución 2404 de 2019, el
   diagnóstico de Riesgo Psicosocial, debe realizarse con instrumentos validados
   en el país, como la Batería de Riesgo Psicosocial de la Universidad Javeriana
-  y el Ministerio de Trabajo de Colombia, la cual cuenta con los cuestionarios: 
+  y el Ministerio de Trabajo de Colombia, la cual cuenta con los cuestionarios:
 
 
   * Ficha de datos generales
 
-  * Cuestionario Intra laboral forma A: dirigido al grupo ocupacional con 
-  cargos directivo o de jefatura y a nivel académico a profesionales, tecnólogos
-  y técnicos
+  * Cuestionario Intra laboral forma A: dirigido al grupo ocupacional con cargos
+  directivo o de jefatura y a nivel académico a profesionales, tecnólogos y
+  técnicos
 
   * Cuestionario Intra laboral forma B: dirigido al grupo ocupacional con cargos
   como auxiliares u operativos y a nivel académico bachilleres o quienes tengan
@@ -76,7 +66,7 @@ section2: >-
 
   * Cuestionario Extra laboral
 
-  * Cuestionario de estrés 
+  * Cuestionario de estrés
 
 
   La batería también tiene a disposición, guías, tales como:
@@ -89,14 +79,66 @@ section2: >-
   * Análisis de Puestos de Trabajo
 
 
-
-
   ### Descargar [Batería de Riesgo Psicosocial.
-  pdf](https://drive.google.com/file/d/1cwmRQtVEWO6m9p-PK2Xv4KtSo0iW1vF6/view?usp=sharing) 
+  pdf](https://drive.google.com/file/d/1cwmRQtVEWO6m9p-PK2Xv4KtSo0iW1vF6/view?usp=sharing)
 video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/1ae240ab-fefe-4f3f-bd84-5c3e0a83c7a9/'
-videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTEREVENCIÓN DEL RIESGO PSICOSOCIAL
-section3: "### FASE I \n#### DIAGNÓSTICO DE (RPS)\n\n•\tAsesoría en: Logística y Comunicación\n\n•\tToma de datos: sensibilización, firma de consentimientos informados, análisis de datos, resultados, conclusiones y recomendaciones\n\n•\tFocus Groups confirmatorios (Opcional) para los casos en que se requiera recabar mayor información\n\n### FASE II\n\n#### ELABORACIÓN DEL DOCUMENTO DE VIGILANCIA EPIDEMIOLÓGICA (SVE en RPS)\n\n•\tAcuerdo con la dirección sobre los aspectos de las recomendaciones que se tendrán en cuenta para la intervención\n\n•\tElaboración del cronograma (fechas, responsables, recursos)\n\n•\tEstablecimiento de indicadores\n\n•\tArticulación del SVE en RPS con el SGSST\n\n•\tFirma del SVE en RPS por parte del especialista \n\n•\tDivulgación de resultados y SVE en RPS. \n\n### FASE III\n\n#### PUESTA EN  MARCHA DEL PLAN DE INTERVENCIÓN\n\n•\tEjecución de actividades contempladas en el documento de vigilancia epidemiológica\n\n•\tSeguimiento de actividades a través de los indicadores, establecidos en el documento de vigilancia epidemiológica"
+videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTERVENCIÓN DEL RIESGO PSICOSOCIAL
+section3: >-
+  ### FASE I
+
+
+  #### DIAGNÓSTICO DE (RPS)
+
+
+  • Asesoría en: Logística y Comunicación
+
+
+  • Toma de datos: sensibilización, firma de consentimientos informados,
+  análisis de datos, resultados, conclusiones y recomendaciones
+
+
+  • Focus Groups confirmatorios (**Opcional**) para los casos en que se requiera
+  mayor información de tipo cualitativo
+
+
+  ### FASE II
+
+
+  #### DISEÑO DEL DOCUMENTO DE VIGILANCIA EPIDEMIOLÓGICA (SVE en RPS)
+
+
+  • Acuerdo con la dirección sobre los aspectos de las recomendaciones, que se
+  tendrán en cuenta para la intervención
+
+
+  • Elaboración del cronograma (fechas, responsables, recursos)
+
+
+  • Establecimiento de indicadores
+
+
+  • Articulación del SVE en RPS con el SG - SST
+
+
+  • Firma del SVE en RPS por parte del especialista
+
+
+  • Divulgación de resultados y SVE en RPS.
+
+
+  ### FASE III
+
+
+  #### PUESTA EN MARCHA DEL PLAN DE INTERVENCIÓN
+
+
+  • Ejecución de actividades contempladas en el cronograma del documento de
+  vigilancia epidemiológica
+
+
+  • Seguimiento de actividades a través de los indicadores, establecidos en el
+  documento de vigilancia epidemiológica
 gallery:
   - alt: Calypso del Caribe
     image: 'https://ucarecdn.com/cbe44ea8-d583-4c2f-89b3-5eaf6ba451df/'
@@ -156,6 +198,9 @@ gallery:
   - alt: Mundial de Aluminios
     image: 'https://ucarecdn.com/3e237a0c-f7b6-4a1c-aa19-faa4d2e88c97/'
 meta:
-  description: 'Riesgo Psicosocial en Colombia, Envaluación de Riesgo psicosocial'
+  description: >-
+    Riesgo Psicosocial, Bateria de Riesgo, Riesgo Psicosocial Colombia, 
+    Factores de Psicosocial, Batería de Riesgo Psicosocial pdf, Riesgo
+    Psicosocial definición 
   title: Riesgo Psicosocial
 ---
