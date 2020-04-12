@@ -127,7 +127,7 @@ Organización especializada en la gestión del Riesgo Psicosocial: Prevención, 
 
 ## Por qué elegirnos?
 
-Creemos en la innovación, la tecnología y la globalización; la organización cuenta con licencia SST, también el equipo; poseemos una alta Orientación de Servicio al Cliente; Experiencia y Trayectoria
+Creemos en la innovación, la tecnología y la globalización; la organización cuenta con licencia SST, también el equipo; poseemos una alta Orientación de Servicio al Cliente; Experiencia, Trayectoria, Sentido Humano y Espiritual. 
 
 ## Historia
 
