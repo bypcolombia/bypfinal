@@ -3,6 +3,7 @@ template: SinglePost
 title: INVENTORY OF OPPORTUNITIES BY COVID-19
 status: Published
 date: '2020-04-28'
+featuredImage: 'https://ucarecdn.com/a9291e7e-4b4c-4edd-937f-7cf35f01795d/'
 excerpt: This is an inventory of the opportunities from the situation by COVID-19
 categories:
   - category: Blog
