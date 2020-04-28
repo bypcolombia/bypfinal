@@ -36,12 +36,21 @@ section1: >-
   Psicosocial](https://ucarecdn.com/4071df0d-f9c7-4243-a726-1ea5bd895e45/-/crop/1394x754/6,164/-/preview/
   "Bateria de Riesgo Psicosocial")
 section2: >-
+  ## Qué hacemos 
+
+
+  Diagnosticamos, exponemos los resultados e intervenimos los riesgos
+  psicosociales (rps) con tecnología de punta y un manejo ético; lo cual nos
+  permite acceder rápida y eficazmente a cualquier lugar y gestionar
+  adecuadamente los rps en su organización
+
+
   ## Quién puede hacer el Diagnóstico de Riesgo Psicosocial
 
 
-  PSICÓLOGOS - ESPECIALISTAS, CON LICENCIA VIGENTE EN SALUD Y SEGURIDAD EN EL
-  TRABAJO (SST), preferiblemente RESPALDADOS por ORGANIZACIONES QUE CUENTEN CON
-  LICENCIA VIGENTE EN SST, como es el caso de **[BIENESTAR Y
+  Especialistas en psicología ocupacional con licencia vigente en salud y
+  seguridad en el trabajo (SST), preferiblemente RESPALDADOS por ORGANIZACIONES
+  QUE CUENTEN CON LICENCIA VIGENTE EN SST, como es el caso de **[BIENESTAR Y
   PRODUCTIVIDAD](https://bienestaryproductividad.com.co/)**
 
 
@@ -81,6 +90,11 @@ section2: >-
 
   ### Descargar [Batería de Riesgo Psicosocial.
   pdf](https://drive.google.com/file/d/1cwmRQtVEWO6m9p-PK2Xv4KtSo0iW1vF6/view?usp=sharing)
+
+
+
+
+  ![](https://ucarecdn.com/b463eaf4-d1c9-437d-8f43-8b17db24fb09/)
 video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/1ae240ab-fefe-4f3f-bd84-5c3e0a83c7a9/'
 videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTERVENCIÓN DEL RIESGO PSICOSOCIAL
