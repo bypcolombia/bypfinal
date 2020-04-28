@@ -5,7 +5,7 @@ title: Riesgo Psicosocial
 featuredImage: 'https://ucarecdn.com/0599753e-5563-4fc1-8243-caddbdfc24a7/'
 subtitle: >-
   ### ***Prevención, Diagnóstico, Sistema de Vigilancia Epidemiológica (SVE en
-  RPS) e Intervenció***
+  RPS) e Intervención***
 section1: >-
   ## Riesgos Psicosociales (RPS)
 
