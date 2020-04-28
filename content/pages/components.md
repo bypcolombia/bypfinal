@@ -94,7 +94,8 @@ section2: >-
 
 
 
-  ![](https://ucarecdn.com/b463eaf4-d1c9-437d-8f43-8b17db24fb09/)
+  ![](https://ucarecdn.com/b463eaf4-d1c9-437d-8f43-8b17db24fb09/ "Ejemplo de
+  enlace a informe")
 video: 'https://ucarecdn.com/fca1505b-ee5e-41ab-a469-d73ba771b692/'
 videoPoster: 'https://ucarecdn.com/1ae240ab-fefe-4f3f-bd84-5c3e0a83c7a9/'
 videoTitle: METODOLOGÍA PARA EL DIAGNÓSTICO E INTERVENCIÓN DEL RIESGO PSICOSOCIAL
