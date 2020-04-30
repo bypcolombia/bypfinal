@@ -35,7 +35,7 @@ Look for your physical, psychological, emotional and spiritual tools, everything
 * It is also an opportunity to value the people who really care about you.
 
 \
-Life will move forward with or without us, while we are here we should make this experience valuable, because now, tomorrow or later, either for this virus or for any other reason, the only sure thing is that we will die, let everything that comes can helps us be better human beings.
+Life will move forward with or without us, while we are here we should make this experience valuable, because now, tomorrow or later, either for this virus or for any other reason, the only sure thing is that our bodies will die, let everything that comes can helps us be better human beings.
 
 [Download ISOLATION … AN OPPORTUNITY](https://drive.google.com/file/d/1CFs3Sk4FkUezrSHBnLDbSZ3chxXKCXyI/view?usp=sharing)
 
