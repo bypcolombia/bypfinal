@@ -32,6 +32,10 @@ La exposición a riesgos por el COVID-19, sobre todo en el personal de salud y t
 
 Por lo anterior es urgente que podamos hacer diagnósticos de riesgos psicosociales en las organizaciones del país, por medio del uso de la tecnología, con ética y responsabilidad, evitando ser vectores de contagio tomado por el uso del papel de los cuestionarios de la batería de riesgo psicosocial; que además, tiene otras implicaciones que impactan negativamente el medio ambiente y que ya he mencionado ampliamente en artículos anteriores y que ahora no valen mencionarlas, ya que con el solo hecho de que el papel en esta época pueda transportar el virus, que es altamente probable que hayan altas demandas emocionales y que el uso de la tecnología reduce enormemente los costos de los diagnósticos, son argumentos suficientes para que de inmediato, el Ministerio de Trabajo, en cabeza de la orden del señor presidente de la república de Colombia, actualicen la Resolución 2404 y se dé vía libre al uso de la tecnología, bajo acuerdos que beneficien a todos y actuemos bajo la premisa de la solidaridad y la cooperación que tanto se requiere en estos momentos.
 
+En resumen, con la autorización del uso la tecnología para diagnosticar e intervenir el riesgo psicosocial ganamos todos! . Trabajadores, porque reconocerán sus niveles de riesgo y podrán ser intervenidos o practicarse con ellos la prevención . Empresarios, porque con tecnología, los diagnósticos se hacen rápidamente y el valor en dinero disminuye considerablemente, además al reconocer y trabajar en disminuir los riesgos, tendrán una población sana con menos riesgos . El medio ambiente (La naturaleza); menos consumo de papel . Los especialistas en psicología laboral y nuestros apoyos (familias que dependen de este hermoso trabajo), porque se reactiva este sector económico.
+
 Por Ingrith Vélez
 
 Especialista en Psicología Ocupacional
+
+servicio@bienestaryproductividad.com.co
