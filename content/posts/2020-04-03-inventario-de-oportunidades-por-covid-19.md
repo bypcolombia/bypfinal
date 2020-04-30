@@ -34,7 +34,7 @@ Busca tus herramientas físicas, psicológicas, emocionales y espirituales, todo
 * Es una oportunidad para poner a prueba nuestra fortaleza y coraje ante las situaciones que nos presente la vida, ante la incertidumbre
 * También es una oportunidad para valorar a las personas a las que realmente le importas
 
-La vida avanzará con nosotros o si nosotros, mientras estemos aquí hagamos que esta experiencia sea valiosa, porque ahora, mañana o más tarde, sea por este virus o por cualquier otra razón, lo único seguro es que moriremos, hagamos que todo lo que nos pase, nos ayude a ser mejores seres humanos.
+La vida avanzará con nosotros o si nosotros, mientras estemos aquí hagamos que esta experiencia sea valiosa, porque ahora, mañana o más tarde, sea por este virus o por cualquier otra razón, lo único seguro es que nuestros cuerpos morirán, hagamos que todo lo que nos pase, nos ayude a ser mejores seres humanos.
 
 Descarga pdf: [Aislamiento ... Una Oportunidad](https://drive.google.com/open?id=1q4WlofXWb_0ZQIFBigGJ6x7MhG03l0_Z) 
 
