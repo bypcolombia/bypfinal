@@ -41,6 +41,12 @@ En resumen, con la autorización del uso la tecnología para diagnosticar e inte
 
 Por último, que tal si con el uso de la tecnología , de una vez pensamos en que unifiquemos la estrategia de diagnóstico con los demás países del mundo, lógicamente considerando diferencias socioculturales y climáticas, ya que todo el mundo está atravesando por la misma situación, sea este el momento para unificarnos; la unión da pie a la solidaridad y ésta es clave para reconstruir la humanidad y evolucionar.
 
+
+
+... [Esta es la respuesta del Ministerio 04/05/2020 Descargar aquí](https://drive.google.com/file/d/1XKwzbeGMg2V4coMDY2iY47nrSHlK_fqi/view?usp=sharing)
+
+
+
 Por Ingrith Vélez 
 
 Especialista en Psicología Ocupacional
