@@ -41,11 +41,9 @@ En resumen, con la autorización del uso la tecnología para diagnosticar e inte
 
 Por último, que tal si con el uso de la tecnología , de una vez pensamos en que unifiquemos la estrategia de diagnóstico con los demás países del mundo, lógicamente considerando diferencias socioculturales y climáticas, ya que todo el mundo está atravesando por la misma situación, sea este el momento para unificarnos; la unión da pie a la solidaridad y ésta es clave para reconstruir la humanidad y evolucionar.
 
-
+Como algunos sabrán, desde el año 2014 hemos tocado la puerta del Ministerio de Trabajo, para contribuir con el mejoramiento continuo de la práctica de los especialistas en psicología ocupacional, por medio de 2 derechos de petición y un concepto jurídico, en donde, basados en la experiencia, pedimos que se legalice el uso de la tecnología para diagnosticar e intervenir los riesgos psicosociales, donde se le de un mayor alcance, es decir, medir por sectores económicos y hacer de los cuestionarios, en sí mismos, un instrumento prácticos de comprender para los trabajadores; el último derecho de petición lo radicamos el 16 de Marzo de 2020, con el objetivo de que por la pandemia COVID-19, se nos permitiera hacer uso de la tecnología, el 04 de mayo de 2020 nos llega un mail con la respuesta del Ministerio.  
 
 ... [Esta es la respuesta del Ministerio 04/05/2020 Descargar aquí](https://drive.google.com/file/d/1XKwzbeGMg2V4coMDY2iY47nrSHlK_fqi/view?usp=sharing)
-
-
 
 Por Ingrith Vélez 
 
