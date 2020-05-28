@@ -8,6 +8,6 @@ meta:
   description: >-
     Artículos de interés respecto a Riesgo Psicosocial, Capacitación en
     Competencias Blandas, Salud Ocupacional, Trabajo en Casa (Teletrabajo),
-    Baile Terapia
+    Baile Terapia, Calidad de vida, Despertar y crecimiento espiritual
   title: Blog | Bienestar y Productividad
 ---
