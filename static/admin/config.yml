@@ -162,11 +162,7 @@ collections: # A list of collections the CMS should be able to edit
             name: 'gallery'
             widget: 'list'
             fields:
-              - { name: image, label: Imagen, widget: image,
-            
-             defaultOperations: '/resize/300x/'
-              
-                }
+              - { name: image, label: Imagen, widget: image, defaultOperations: '/resize/300x/'}
               - { name: alt, label: Nombre para SEO2, widget: string }
               - { name: title, label: Titlulo2, widget: string, required: false }
           - label: 'Meta'
