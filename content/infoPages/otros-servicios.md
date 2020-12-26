@@ -2,10 +2,9 @@
 template: DefaultPage
 slug: servicios
 title: Otros Servicios
-featuredImage: 'https://ucarecdn.com/68cf2b34-e1f8-4264-90a5-fc38a6d40d16/'
+featuredImage: https://ucarecdn.com/68cf2b34-e1f8-4264-90a5-fc38a6d40d16/
 meta:
-  title: >-
-    Riesgo Psicosocial, Capacitación, Análisis de Puesto de Trabajo, Visitas
+  title: Riesgo Psicosocial, Capacitación, Análisis de Puesto de Trabajo, Visitas
     domiciliarias
 ---
 ## Capacitaciones In y Outdoor
@@ -56,7 +55,7 @@ Entrevistas
 
 Medimos el desempeño de sus colaboradores, para que los directivos y los líderes del  área de recursos humanos y jefes de áreas, puedan considerar mejoras en temas de Capacitación, Compensación, Motivación, Desarrollo, Promoción, etc., por medio de la metodología tradicional y 360°. 
 
-## ​Evaluación por competencias
+## ​Diagnóstico de habilidades
 
 Por medio de  combinación de técnicas como la Entrevista Individual y Grupal, Assesment Center y Pruebas Psico técnicas.
 
